@@ -9,7 +9,7 @@ var myArr = [2,4,0,8,10]
      
     // Only change code below this line
 
-      myArr = myItems
+      myItems = myArr[2]
 
     return myItems;
 
@@ -17,4 +17,4 @@ var myArr = [2,4,0,8,10]
 // Only change code above this line
     
 
-  } console.log (myArrayFunction([2] = 6));
+  } console.log (myArrayFunction[6]);
